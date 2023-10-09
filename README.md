@@ -11,7 +11,7 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto">🌱 I’m currently learning <strong>Flatter</strong></p>
+<p dir="auto">🌱 I’m currently learning <strong>Flutter</strong></p>
 </li>
 <li>
 <p dir="auto">👨‍💻 All of my projects are available <a href="Active-Themez?tab=repositories"><strong>Here!</strong></a></p>
