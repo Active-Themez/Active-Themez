@@ -11,13 +11,13 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto">🌱 I’m currently learning <strong>Django,Tkinter Python Libraries</strong></p>
+<p dir="auto">🌱 I’m currently learning <strong>Flatter</strong></p>
 </li>
 <li>
 <p dir="auto">👨‍💻 All of my projects are available <a href="Active-Themez?tab=repositories"><strong>Here!</strong></a></p>
 </li>
 <li>
-<p dir="auto">💬 Ask me about <strong>Django</strong></p>
+<p dir="auto">💬 Ask me about <strong>Django and React js</strong></p>
 </li>
 <li>
 <p dir="auto">📫 How to reach me <strong><a href="mailto:Omar.design70@gmail.com">Omar.design70@gmail.com</a></strong></p>
